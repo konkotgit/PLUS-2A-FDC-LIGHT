@@ -8,6 +8,18 @@
 
 Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
 
+### Floppy disk drive connection and jumper settings.
+
+Make sure the drive supports DS/DD (720KB) floppy disks. 
+
+1 x 3.5' IBM PC Drive
+
+Use standard flat ribbon cable. 
+
+2 x 3.5' IBM PC Drive
+
+Use flat ribbon cable *without* twist. One drive must be wired as DS0 and second as DS1.
+
 ### Look at YouTube:
 [![YouTube link](https://img.youtube.com/vi/KGCfneKMlBE/0.jpg)](https://www.youtube.com/watch?v=KGCfneKMlBE)
 
