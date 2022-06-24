@@ -8,6 +8,12 @@
 
 Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
 
+### Compatible fdd controller chips:
+
+* NEC UPD765 (D765AC-2)
+* Zilog Z0765A08PSC
+* UMC UM8272A
+
 ### Floppy disk drive connection and jumper settings.
 
 Make sure the drive supports DS/DD (720KB) floppy disks. 
